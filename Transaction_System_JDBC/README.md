@@ -26,6 +26,22 @@ export DB_PASSWORD="password321"
 
 ---
 
+---
+
+## 📸 Transaction Flow Implementation
+
+The application uses JDBC transaction management to maintain data consistency and follow ACID principles.
+
+### Transaction Handling
+
+- Manual transaction control using `setAutoCommit(false)`
+- Debit and credit operations using `PreparedStatement`
+- `commit()` after successful operations
+- `rollback()` when any operation fails
+- Transaction history logging with SUCCESS / FAILED status
+
+![JDBC Transaction Flow](images/transaction-flow.png)
+
 ## 🛠️ Technologies Used
 - ☕ Java
 - 🔌 JDBC
