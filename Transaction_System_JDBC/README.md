@@ -26,8 +26,6 @@ export DB_PASSWORD="password321"
 
 ---
 
----
-
 ## 📸 Transaction Flow Implementation
 
 The application uses JDBC transaction management to maintain data consistency and follow ACID principles.
@@ -40,7 +38,10 @@ The application uses JDBC transaction management to maintain data consistency an
 - `rollback()` when any operation fails
 - Transaction history logging with SUCCESS / FAILED status
 
+
 ![JDBC Transaction Flow](image/transaction-flow.png)
+
+
 ## 🛠️ Technologies Used
 - ☕ Java
 - 🔌 JDBC
