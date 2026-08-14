@@ -1,7 +1,6 @@
 # ☕ Java Practice Projects
 
-This repository contains my Java practice projects built while learning **Core Java**, **Object-Oriented Programming (OOP)**, **JDBC**, and **MySQL**.
-
+Java backend engineering implementations covering OOP, Collections, JDBC, SQL, transaction management, and backend fundamentals through real-world applications.
 The goal of this repository is to strengthen Java fundamentals by building console-based applications and implementing real-world programming concepts.
 
 ---
