@@ -39,7 +39,7 @@ The application uses JDBC transaction management to maintain data consistency an
 - Transaction history logging with SUCCESS / FAILED status
 
 
-![JDBC Transaction Flow](image/transaction-flow.png)
+<img src="./image/transaction-flow.png" alt="JDBC Transaction Flow" width="900"/>
 
 
 ## 🛠️ Technologies Used
