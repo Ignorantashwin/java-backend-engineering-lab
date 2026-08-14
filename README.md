@@ -60,8 +60,7 @@ A Java application demonstrating transaction management using JDBC.
 
 ## 🎯 Purpose
 
-These projects were built as part of my Java Backend Developer learning journey to strengthen Core Java concepts before moving to Spring Boot, Microservices, System Design, and scalable backend development.
-
+This repository contains backend-focused Java implementations created while building strong foundations for scalable backend development. The projects demonstrate object-oriented design, database interaction, transaction handling, and clean application structure using Core Java and JDBC.
 ---
 
 ## 📌 Repository Structure
